@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ Heyo friends!  
 
 <!--
 **GustavoSAmboni/GustavoSAmboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Gustavo, a full stack .NET developer working from Santa Catarina, Brazil at ANDRITZ.
+I believe people can turn dreams into software (and vice-versa), so I do my best to code things that will help build the future!
