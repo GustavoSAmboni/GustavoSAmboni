@@ -1,19 +1,26 @@
-### ⚡ Heyo friends!  
+# 🚀 Hi, I'm Gustavo!
 
-<!--
-**GustavoSAmboni/GustavoSAmboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack .NET Developer based in Santa Catarina, Brazil, currently helping people to build the future at [ANDRITZ](https://www.andritz.com/).
 
-Here are some ideas to get you started:
+🎈 I believe that dreams can be turned into software—and sometimes, software enable new dreams to come true.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎀 What I Do
 
-I'm Gustavo, a full stack .NET developer working from Santa Catarina, Brazil at ANDRITZ.
-I believe people can turn dreams into software (and vice-versa), so I do my best to code things that will help build the future!
+- Craft scalable and maintainable applications using .NET and modern web technologies
+- Collaborate with teams to deliver high-quality solutions
+- Continuously learn, experiment, and share knowledge
+- Turn ideas into reality with clean, efficient code
+
+## 🎯 About Me
+
+- Location: Santa Catarina, Brazil
+- Role: Full Stack Developer @ ANDRITZ
+
+## 📢 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile](https://br.linkedin.com/in/gustavo-amboni-5b0a50216))
+- [GitHub](https://github.com/GustavoSAmboni)
+
+---
+
+*Coding over the shoulder of Giants.*
